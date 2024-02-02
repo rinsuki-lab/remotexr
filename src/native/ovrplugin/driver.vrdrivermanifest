@@ -1,0 +1,6 @@
+{
+    "alwaysActive": true,
+    "name": "remotexr",
+    "redirectsDisplay": true,
+    "hmd_presence": ["*.*"]
+}
